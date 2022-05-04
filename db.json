@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "name": "PDA",
+          "address": "kost h.arip",
+          "age": 26,
+          "phone": "081293923425"
+        },
+        {
+          "id": 2,
+          "name": "Pak Kiai",
+          "address": "Madrid",
+          "age": 45,
+          "phone": "081293923425"
+        },
+        {
+          "id": 3,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 4,
+          "name": "Messi",
+          "address": "PSG",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 5,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 6,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 7,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 8,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 9,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 10,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 11,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        },
+        {
+          "id": 12,
+          "name": "Wak Aji",
+          "address": "Liverpool",
+          "age": 36,
+          "phone": "081293923425"
+        }
+    ]
+}
